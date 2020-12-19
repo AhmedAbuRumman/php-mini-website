@@ -1,0 +1,10 @@
+<?php
+include("register.php");
+
+
+  
+
+
+
+
+?>
